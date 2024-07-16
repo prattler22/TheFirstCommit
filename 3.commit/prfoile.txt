@@ -1,2 +1,2 @@
-email :
-gitID :
+email : gosirang@dweax.com
+gitID : prattler22
